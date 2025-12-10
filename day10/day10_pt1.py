@@ -1,5 +1,4 @@
 from collections import deque
-from itertools import combinations
 
 class Machine:
     def __init__(self, lights, buttons, jolts):
